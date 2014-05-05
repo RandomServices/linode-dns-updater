@@ -1,0 +1,6 @@
+api_key: "get_this_from_linode"
+master_ips:
+  - 127.0.0.1
+  - "fe80::"
+slaves:
+  - example.com
